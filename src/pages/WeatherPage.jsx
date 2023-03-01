@@ -84,7 +84,7 @@ const WeatherPage = () => {
                             </Typography>
                             <Typography
                                 align='left'>
-                                {/* {weather.weather[0].main} */}
+                                {weather.weather[0].main}
                             </Typography>
                         </Box>
                         <Box>
